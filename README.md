@@ -3,6 +3,6 @@ Tesi Magistrale: Studio in alta frequenza dell’azionamento di un motore sincro
 
 This is the interior High Frequency model of an SPM PMSM.
 
-Download the full repository named "Simulink Model" and open the file TESI.prj.
+Download the full repository named "Matlab_Simulink_Model" and open the file TESI.prj.
 
 ENJOY!
